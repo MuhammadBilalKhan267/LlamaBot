@@ -1,0 +1,11 @@
+%pip install django==5.0.7
+%pip install django-crispy-forms==2.3
+%pip install crispy-bootstrap5==2024.2
+%pip install langchain==0.2.11
+%pip install langchain-community==0.2.10
+%pip install langchain-experimental==0.0.63
+%pip install chromadb==0.5.5
+%pip install pyPDF2==3.0.1
+# for date and time
+%pip install pytz==2024.1
+%pip install tzlocal==5.2
